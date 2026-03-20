@@ -1,4 +1,4 @@
-📊 Superstore Sales Dashboard
+## 📊 Superstore Sales Dashboard
 
 📌 Overview
 This project presents a **Sales Dashboard** built in **Power BI** using a supermarket dataset.  
