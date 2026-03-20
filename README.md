@@ -56,4 +56,6 @@ This dashboard enables supermarket managers to:
 3. Explore the dashboard with filters (Year, Month, Sale Type, Payment Mode).
 4. Review KPIs, charts, and insights interactively.
 
+## Screenshots
+![Dashboard Overview](images/Sales Dashboard.png)
 
